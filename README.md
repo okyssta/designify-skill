@@ -47,7 +47,7 @@ Project-local examples:
 Once this repository is on GitHub, install it with a command like:
 
 ```bash
-npx skills add https://github.com/kyssta-exe/designify-skill --skill designify
+npx skills add https://github.com/okyssta/designify-skill --skill designify
 ```
 
 ## Notes
